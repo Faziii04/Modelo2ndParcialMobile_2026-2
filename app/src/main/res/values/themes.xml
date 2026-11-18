@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Compose draws everything; this XML theme only styles the window/splash.
+         Uses a platform theme so no Material Components dependency is required. -->
+    <style name="Base.Theme.SegundoParcialMovil20262" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.SegundoParcialMovil20262" parent="Base.Theme.SegundoParcialMovil20262" />
+</resources>

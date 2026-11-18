@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271001044674",
+    "project_id": "movil-segundoparcial2026-2",
+    "storage_bucket": "movil-segundoparcial2026-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271001044674:android:12afcdbcd2cf3e1b61dd5b",
+        "android_client_info": {
+          "package_name": "com.example.segundoparcialmovil2026_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBApr2bdqFFhWH4cCAACxSnXzlWKBYz5GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

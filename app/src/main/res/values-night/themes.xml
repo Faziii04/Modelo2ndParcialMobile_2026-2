@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Compose draws everything; this XML theme only styles the window/splash. -->
+    <style name="Base.Theme.SegundoParcialMovil20262" parent="android:Theme.Material.NoActionBar">
+        <!-- Customize your dark theme here. -->
+    </style>
+</resources>
